@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TfCiGithubApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TfCiGithubApplication.class, args);
+		System.out.println("Hello World");
+//		SpringApplication.run(TfCiGithubApplication.class, args);
+
 	}
 
 }
